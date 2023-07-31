@@ -8,6 +8,6 @@ _Contained within this repository are the very resources that guided me from bei
 ## Links: 
 |#| Image | Topic | Twitter Post |
 |---| ------------------- | ---------------- | ------- | 
-|1|<img src="Day1_rust.png" alt= “” width="150px" height="100px">|[Introduction](https://doc.rust-lang.org/book/title-page.html)| [Day1](https://twitter.com/edsondsouza/status/1685876534375231489?s=20)|
+|1|<img src="images/Day1_rust.png" alt= “” width="150px" height="100px">|[Introduction](https://doc.rust-lang.org/book/title-page.html)| [Day1](https://twitter.com/edsondsouza/status/1685876534375231489?s=20)|
 
 
